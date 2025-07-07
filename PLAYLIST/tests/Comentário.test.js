@@ -82,4 +82,4 @@ describe('Comentario Model', () => {
       expect(error.name).to.equal('SequelizeValidationError');
     }
   });
-});
+});Z0
